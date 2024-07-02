@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="center">Contact</h2>
 
 ###
 
